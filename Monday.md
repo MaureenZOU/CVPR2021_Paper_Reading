@@ -15,3 +15,5 @@
 * Cross-Modal Contrastive Learning for Text-to-Image Generation
 
 * Spatially Consistent Representation Learning
+
+## Monday, June 21, 2021   22:00  – 24:30
