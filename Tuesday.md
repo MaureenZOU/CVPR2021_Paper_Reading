@@ -13,3 +13,11 @@
 * Training Generative Adversarial Networks in One Stage	
 
 * Learning To Count Everything (I don't know why this paper makes me laugh!)
+
+* Image Super-Resolution With Non-Local Sparse Attention	
+
+* Learning To Warp for Style Transfer
+
+* Stochastic Image-to-Video Synthesis Using cINNs	
+
+* Instance Localization for Self-supervised Detection Pretraining
