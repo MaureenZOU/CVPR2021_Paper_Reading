@@ -4,5 +4,5 @@ This repo is a diary on CVPR2021, including paper reading, Tutorial Notes and ra
 
 #############################################################################################
 1. These are all the papers that I am interested : )
-2. I have at least open and scaned through each paper.
-3. I loss patient at the papers appear in the end of each day : (
+2. Each paper is at least scanned through.
+3. I lost patient at the papers appear in the end of each day : (
